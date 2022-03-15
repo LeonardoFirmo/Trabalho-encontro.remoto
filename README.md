@@ -3,4 +3,4 @@ Leonardo Firmo Da Mota e
 Raiane Gabriele Brito de Oliveira.
 
 Comandos usados:
-git clone, git branch, git checkout , code . 
+git clone, git branch, git checkout , code . ,git status, git add, git commit, git push 
